@@ -1,2 +1,2 @@
 # tensorflow-example
-basic tensorflow examples
+basic tensorflow examples of doing binary classification
