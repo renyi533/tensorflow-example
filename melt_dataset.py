@@ -30,7 +30,7 @@ def load_dense_data(dataset, has_header = False):
 	if (lines[0].startswith('#')):
 		has_header = True
 	
-	label_idx = parse_first_line(lines[0])
+	label_idx = parse_first_line(lines[has_header]) 
 	nrows = 0
 	for i in xrange(has_header, len(lines)):
 		if nrows % 10000 == 0:
