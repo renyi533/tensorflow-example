@@ -1,4 +1,4 @@
-##Will stop update, and will all move to [tensorflow-exp](https://github.com/chenghuige/tensorflow-exp)
+##Stop update, and will all move to [tensorflow-exp](https://github.com/chenghuige/tensorflow-exp)
 # tensorflow-example
 basic tensorflow examples of doing binary classification
 will show auc result for each epoch
