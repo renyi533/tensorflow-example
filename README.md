@@ -1,3 +1,4 @@
+##Will stop update, and will all move to tensorflow-exp
 # tensorflow-example
 basic tensorflow examples of doing binary classification
 will show auc result for each epoch
